@@ -16,17 +16,17 @@ body {
 }
 
 .img-logo {
-    margin: 160px;
-    display:block;
+    margin:0%;
+    display:flex;
     width: 160px;
-    height:auto;
+    height:fit-content;
 }
 
 .mail-title {
     color: #13b921ae;
     text-align:left;
     font-weight:bold;
-    font-size: 1.1rem;
+    font-size: 1.8rem;
     letter-spacing: 0px;
 }
 
